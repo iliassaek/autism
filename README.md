@@ -2,6 +2,7 @@
 
 ### Authors:
 - [Iliass AIT EL KOUCH ]()
+- [Oumayma BEN LOUALI]()
 - [Amine ASRI]()
 - [Anass BAIROUK](https://www.linkedin.com/in/anass-bairouk-258673109/)
 
